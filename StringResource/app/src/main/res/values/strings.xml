@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">StringResource</string>
+    <string name="hello_world">Hello World</string>
+    <string name="eyaho">이야호</string>
 </resources>
